@@ -1,0 +1,25 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 50px;
+}
+#dark_mode_button{
+    width: 150px;
+    border-radius:50px ;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    background-color: white;
+    color: skyblue;
+}
